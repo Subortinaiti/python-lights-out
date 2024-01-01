@@ -1,7 +1,7 @@
 # python-lights-out
 My version of the game "Lights Out" made in python.
 
-Controls
+## Controls
 
 After the initial setup, click on any cell to toggle it and its four neighbors.
 
